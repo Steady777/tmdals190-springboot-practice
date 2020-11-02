@@ -4,7 +4,7 @@ import org.junit.Test;
 import  static org.assertj.core.api.Assertions.assertThat;
 
 public class HelloResponseDtoTest {
-
+    //롬복 기능 테스트 추가
     @Test
     public void 롬복_기능_테스트() {
         String name = "test";
